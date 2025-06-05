@@ -67,7 +67,7 @@ src="https://www.gstatic.com/images/branding/product/2x/forms_96dp.png"
 align="left"
 width="96px"/>
 ### Forms
-- [Notification add-on](forms)
+- [Notification add-on](Google%20Forms)
 <br><br>
 
 <img
